@@ -5,7 +5,7 @@
 
 - [Bot token and list of allowed users](#private)
 
-- Json keys](#keys)
+- [Json keys](#keys)
 
 - [Logs](#logs)
 
